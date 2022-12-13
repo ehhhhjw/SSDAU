@@ -1,4 +1,4 @@
-#Note  
+# Note  
 In the code folder, you can perform data augmentation for four datasets NYT, NYT_star, WebNLG, WebNLG_star, and the code is executed as follows:
 
 ##### Before that you need to configure your environment according to ./Similarity_match_framework/README.md.
