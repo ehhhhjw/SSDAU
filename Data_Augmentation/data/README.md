@@ -1,4 +1,4 @@
-#Note
+# Note
 This folder is the data folder, which stores the original data and the augmented data. 
 The original data are: **NYT, NYT_star, WebNLG, WebNLG_star**; 
 The **augmented data** are: **NYT_augmentation, NYT_star_augmentation, WebNLG_augmentation, WebNLG_star_augmentation**.
