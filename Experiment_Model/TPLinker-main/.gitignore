@@ -1,0 +1,8 @@
+data
+log
+*.log
+.vscode
+.idea
+*.pyc
+*.iml
+__pycache__
