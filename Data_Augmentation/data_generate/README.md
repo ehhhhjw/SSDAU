@@ -1,4 +1,4 @@
-#Note
+# Note
 The folder is the data_generate folder, and this folder stores the four enhanced texts corresponding to the four data sets, respectively.
 
 **train_entity1_1000.json**: Header entity augmented text.
