@@ -24,4 +24,4 @@ We choose the optimal semantic matching threshold.
 
 We validate the effectiveness in different JERE models.
 ![image](fig/different_model.png)
-# SSDAU
+
